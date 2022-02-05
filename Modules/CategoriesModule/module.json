@@ -1,0 +1,13 @@
+{
+    "name": "CategoriesModule",
+    "alias": "categoriesmodule",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\CategoriesModule\\Providers\\CategoriesModuleServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
